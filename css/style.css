@@ -207,8 +207,7 @@ footer {
   width: 50%;
 }
 .contact-form input,
-textarea,
-button {
+textarea {
   display: block;
 }
 .contact-form input,
