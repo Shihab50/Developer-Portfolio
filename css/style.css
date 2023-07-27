@@ -162,6 +162,9 @@ main section {
   gap: 71px;
   margin-top: 113px;
 }
+.resume-container hr {
+  margin: 45px 0;
+}
 .resume-coloum-title {
   color: #474747;
   font-size: 30px;
@@ -172,9 +175,21 @@ main section {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 .resume-item-institue {
   color: #474747;
   font-size: 20px;
   font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+.resume-item-description {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+}
+.resume-button {
+  text-align: center;
+  margin-top: 40px;
 }
